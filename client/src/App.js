@@ -18,6 +18,7 @@ const Home = (props) => {
   return (
     <div>
     <Nav />
+    <h1>TEST!!!</h1>
     <div className="logos">
         <div className="github">
           <h4><a className="text" href="https://github.com/FrenchieAP/">Github</a></h4>
